@@ -1,0 +1,40 @@
+@font-face{
+    font-family:monospace;
+    src: url(../fontes/SpaceMono-Italic.ttf)
+}
+html{
+    background-color: rgb(56, 130, 143);
+}
+h1{
+    background-color:rgb(56, 130, 143); 
+    color: #fff;
+    font-size: 100px;
+}
+button{
+    background-color: rgb(56, 130, 143);
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    border: solid 1px #fff;
+    font-size:1.2em;
+    padding:18px 10px;
+    width:180px;
+    margin: 10px;
+  
+}
+button:hover{
+transition-duration: 1s;
+background: #fff;
+color: black;
+}
+p{
+    font-family: monospace;
+    src: url(../fontes/SpaceMono-Italic.ttf);
+    color: #fff;
+    font-size: 100px;
+}
+    
+    
+
+
+    
